@@ -1,2 +1,1 @@
-this is the first code on this platform
-git
+this is for testing purpose
